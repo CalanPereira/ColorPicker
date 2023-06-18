@@ -3,9 +3,9 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
-      <excludeFolder url="file://$MODULE_DIR$/Geolocator-master/.pub" />
-      <excludeFolder url="file://$MODULE_DIR$/Geolocator-master/build" />
-      <excludeFolder url="file://$MODULE_DIR$/Geolocator-master/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ColorPicker/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ColorPicker/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ColorPicker/build" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
